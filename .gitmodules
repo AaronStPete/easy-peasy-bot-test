@@ -1,0 +1,3 @@
+[submodule "easy-peasy-bot-test"]
+	path = easy-peasy-bot-test
+	url = https://github.com/AaronStPete/easy-peasy-bot-test.git
